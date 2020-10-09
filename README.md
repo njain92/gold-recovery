@@ -1,5 +1,5 @@
 # gold-recovery
-Build model that predicts the amount of gold that can be recovered from gold ore
+Build model that predicts the amount of gold that can be recovered from gold ore \
 The data can be found here www.kaggle.com/dataset/43fc6fcc1e372c56bbe1504fc075d3f2b831e4c165e1273b259f5839f9dc5fcf. \
 Some parameters are not available because they were measured and/or calculated much later. That's why, some of the features that are present in the training set may be absent from the test set. The test set also doesn't contain targets.
 
